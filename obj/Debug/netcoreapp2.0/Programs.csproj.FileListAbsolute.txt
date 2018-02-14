@@ -1,0 +1,10 @@
+/Users/andeecoba/Documents/Projects/PracticeProblems/bin/Debug/netcoreapp2.0/Programs.deps.json
+/Users/andeecoba/Documents/Projects/PracticeProblems/bin/Debug/netcoreapp2.0/Programs.runtimeconfig.json
+/Users/andeecoba/Documents/Projects/PracticeProblems/bin/Debug/netcoreapp2.0/Programs.runtimeconfig.dev.json
+/Users/andeecoba/Documents/Projects/PracticeProblems/bin/Debug/netcoreapp2.0/Programs.dll
+/Users/andeecoba/Documents/Projects/PracticeProblems/bin/Debug/netcoreapp2.0/Programs.pdb
+/Users/andeecoba/Documents/Projects/PracticeProblems/obj/Debug/netcoreapp2.0/Programs.csproj.CoreCompileInputs.cache
+/Users/andeecoba/Documents/Projects/PracticeProblems/obj/Debug/netcoreapp2.0/Programs.AssemblyInfoInputs.cache
+/Users/andeecoba/Documents/Projects/PracticeProblems/obj/Debug/netcoreapp2.0/Programs.AssemblyInfo.cs
+/Users/andeecoba/Documents/Projects/PracticeProblems/obj/Debug/netcoreapp2.0/Programs.dll
+/Users/andeecoba/Documents/Projects/PracticeProblems/obj/Debug/netcoreapp2.0/Programs.pdb
